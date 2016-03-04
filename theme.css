@@ -23,3 +23,10 @@ body {
     background-repeat:   no-repeat;
     background-position: center top; 
 }
+
+#pagedivcontainer {
+    width: auto;
+    margin-bottom: 1em; 
+    padding: 10px;
+    border: 1px;
+}
